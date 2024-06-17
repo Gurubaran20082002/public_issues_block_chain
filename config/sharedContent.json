@@ -1,0 +1,62 @@
+{
+    "title": "Public Issues Rectification Portal",
+    "description": "Empowerment through Engagement: Uniting Voices for Public Good."
+
+
+
+    
+    ,"navItems": [
+        {
+            "name": "Home",
+            "link": "/#hero"
+        },
+        {
+            "name": "Safety Info",
+            "link": "/#safety-info"
+        },
+        {
+            "name": "Report Issues",
+            "link": "/#empower-safety"
+        },
+        {
+            "name": "Contact",
+            "link": "/#contact"
+        }
+    ],
+    "socials": [
+        {
+            "icon": "facebook",
+            "link": "#",
+            "displayText": "facebook.com"
+        },
+        {
+            "icon": "messenger",
+            "link": "*",
+            "displayText": "messenger.com"
+        },
+        {
+            "icon": "instagram",
+            "link": "",
+            "displayText": "instagram.com"
+        },
+        {
+            "icon": "email",
+            "link": "mailto:issuerectify@gmail.com",
+            "displayText": "issuerectify@gmail.com"
+        },
+        {
+            "icon": "phone",
+            "link": "tel:8903057292",
+            "displayText": "8903057292"
+        }
+    ],
+    "openingHours": {
+        "day": "Monday - Friday",
+        "time": "8:00 AM - 5:00 PM"
+    },
+    "policeStation": {
+        "name": "Crime Municipal Police Station",
+        "contact": "08765432109",
+        "facebook": "https://www.facebook.com/"
+    }
+}
